@@ -1,0 +1,1 @@
+// Ele serve para pegar um texto e repeti-lo várias vezes seguidas, colando uma cópia na outra, de acordo com o número que você escolher.

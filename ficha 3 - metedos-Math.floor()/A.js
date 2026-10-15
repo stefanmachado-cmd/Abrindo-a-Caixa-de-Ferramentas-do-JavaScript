@@ -1,0 +1,1 @@
+//Arredonda um número decimal sempre para baixo, em direção ao número inteiro mais próximo.

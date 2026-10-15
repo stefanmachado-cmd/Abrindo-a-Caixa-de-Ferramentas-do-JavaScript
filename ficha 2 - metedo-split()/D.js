@@ -1,0 +1,1 @@
+//Um Array contendo as partes do texto cortado.

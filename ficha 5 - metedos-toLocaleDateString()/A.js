@@ -1,0 +1,1 @@
+//Converte um objeto de data do JavaScript em um texto formatado conforme as regras de um país específico.

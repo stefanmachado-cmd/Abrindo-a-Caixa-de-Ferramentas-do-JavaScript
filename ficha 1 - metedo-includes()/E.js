@@ -1,0 +1,1 @@
+//Para verificar se o e-mail digitado por um usuário contém o símbolo @.

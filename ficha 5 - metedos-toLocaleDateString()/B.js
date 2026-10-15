@@ -1,0 +1,1 @@
+//data.toLocaleDateString(localidade, opcoes)

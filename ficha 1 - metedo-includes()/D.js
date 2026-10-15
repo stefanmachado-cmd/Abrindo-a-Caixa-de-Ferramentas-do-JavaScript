@@ -1,0 +1,1 @@
+//Um valor booleano (true ou false).

@@ -1,0 +1,1 @@
+// Um número inteiro positivo que indica quantas vezes o texto deve ser repetido.

@@ -1,0 +1,1 @@
+// O objeto/valor principal e, opcionalmente, funções de filtro ou espaçamentos para indentação.

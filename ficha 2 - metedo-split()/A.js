@@ -1,0 +1,1 @@
+//Corta um texto em várias partes com base em um separador comum e guarda os pedaços dentro de uma lista.

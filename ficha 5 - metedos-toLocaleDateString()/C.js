@@ -1,0 +1,1 @@
+//O código da região (ex: 'pt-BR') e, opcionalmente, um objeto de configuração com detalhes de exibição.

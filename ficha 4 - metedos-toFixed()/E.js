@@ -1,0 +1,1 @@
+//Exibir preços de produtos em e-commerce no formato padrão de moeda (com duas casas decimais).

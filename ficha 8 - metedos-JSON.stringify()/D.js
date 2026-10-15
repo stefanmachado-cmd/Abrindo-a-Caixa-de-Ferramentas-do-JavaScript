@@ -1,0 +1,1 @@
+//Uma String no formato JSON.

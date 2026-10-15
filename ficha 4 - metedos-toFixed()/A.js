@@ -1,0 +1,1 @@
+//Controla e limita a quantidade de casas decimais após a vírgula de um número, arredondando-o se necessário.

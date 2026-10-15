@@ -1,0 +1,1 @@
+//Não recebe nenhum argumento.

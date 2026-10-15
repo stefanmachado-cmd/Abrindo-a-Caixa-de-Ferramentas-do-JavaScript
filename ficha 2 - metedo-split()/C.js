@@ -1,0 +1,1 @@
+//O caractere ou padrão que vai servir de "tesoura" (separador) e, um número máximo de divisões.

@@ -1,0 +1,1 @@
+//Um número decimal ou inteiro.

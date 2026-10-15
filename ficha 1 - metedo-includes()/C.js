@@ -1,0 +1,1 @@
+// Recebe obrigatoriamente o termo que você quer buscar (texto) e, a posição numérica de onde a busca deve começar.

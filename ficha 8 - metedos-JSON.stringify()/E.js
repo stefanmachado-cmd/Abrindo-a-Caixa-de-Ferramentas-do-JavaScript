@@ -1,0 +1,1 @@
+//Preparar os dados de um carrinho de compras para enviá-los de forma segura para um servidor através de uma API HTTP.

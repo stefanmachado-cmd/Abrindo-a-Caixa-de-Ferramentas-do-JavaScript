@@ -1,0 +1,1 @@
+//string.includes(termoDeBusca, posicaoInicial)

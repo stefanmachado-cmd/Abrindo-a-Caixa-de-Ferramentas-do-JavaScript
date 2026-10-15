@@ -1,0 +1,1 @@
+//Pega um objeto ou array do JavaScript e transforma tudo em uma string de texto formatada em JSON.

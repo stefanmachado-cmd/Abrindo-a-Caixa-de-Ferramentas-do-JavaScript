@@ -1,0 +1,1 @@
+//Troquei o local de 'pt-BR' para 'en-US'. O novo resultado foi "10/15/2026" (padrão americano: mês/dia/ano).

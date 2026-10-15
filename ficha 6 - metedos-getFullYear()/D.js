@@ -1,0 +1,1 @@
+//Um número inteiro de quatro dígitos (ex: 2026).

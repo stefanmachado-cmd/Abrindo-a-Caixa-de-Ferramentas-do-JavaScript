@@ -1,0 +1,1 @@
+//Calcular a quantidade de páginas inteiras necessárias para exibir um relatório no sistema de paginação.
